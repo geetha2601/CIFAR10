@@ -1,5 +1,6 @@
 # CIFAR10
 Image Classification of CIFAR 10 dataset using different CNN's , Resnet and VGG16
+
 CNN1 - Train_accuracy : 79.32, Test_accuracy: 78.42
 
 CNN2 - Train_accuracy : 70.82, Test_accuracy : 71.62
